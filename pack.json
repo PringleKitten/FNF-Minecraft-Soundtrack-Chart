@@ -1,6 +1,6 @@
 {
 	"name": "Minecraft Soundtrack",
-	"description": "This took me way too long...",
+	"description": "This took me way too long... (Use JS Engine if it breaks)",
 	"restart":false,
 	"runsGlobally": false,
 	"color": [251, 77, 155]
